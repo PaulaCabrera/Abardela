@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--VituixCAD DRIVER DATA-->
+<!--Version 2-->
+<DRIVERS>
+  <DRIVER>
+    <Manufacturer>VISATON</Manufacturer>
+    <Model>BG 20 - 8 Ohm</Model>
+    <Type>F</Type>
+    <Status>Active</Status>
+    <Size>8.0</Size>
+    <Re>6.2</Re>
+    <fs>38.0</fs>
+    <Qms>3.47</Qms>
+    <Qes>0.51</Qes>
+    <Qts>0.44</Qts>
+    <Rms>0.7</Rms>
+    <Mms>10.0</Mms>
+    <Cms>1.6935</Cms>
+    <Vas>110.0</Vas>
+    <Sd>214.0</Sd>
+    <BL>6.1</BL>
+    <Pmax>70.0</Pmax>
+    <Xmax>2.0</Xmax>
+      <Le>0.8</Le>
+      <Mmd>9.6</Mmd>
+      <Mms>10</Mms>
+		<Updated>2018-05-10/LoudspeakerDatabase.com</Updated>
+  </DRIVER>
+</DRIVERS>

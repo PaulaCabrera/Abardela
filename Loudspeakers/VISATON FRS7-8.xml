@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--VituixCAD DRIVER DATA-->
+<!--Version 2-->
+<DRIVERS>
+  <DRIVER>
+    <Manufacturer>VISATON</Manufacturer>
+    <Model>FRS 7 - 8 Ohm</Model>
+    <Type>F</Type>
+    <Status>Active</Status>
+    <Size>2.5</Size>
+    <Re>7.2</Re>
+    <fs>250.0</fs>
+    <Qms>3.32</Qms>
+    <Qes>2.08</Qes>
+    <Qts>1.28</Qts>
+    <Rms>0.4</Rms>
+    <Mms>0.8</Mms>
+    <Cms>0.437</Cms>
+    <Vas>0.3</Vas>
+    <Sd>22.0</Sd>
+    <BL>2.1</BL>
+    <Pmax>15.0</Pmax>
+    <Xmax>0.8</Xmax>
+    <Le>0.6</Le>
+    <Mmd>0.7</Mmd>
+		<Updated>2018-05-10/LoudspeakerDatabase.com</Updated>
+  </DRIVER>
+</DRIVERS>
